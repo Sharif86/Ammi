@@ -1,0 +1,11 @@
+node {
+    
+stage 'stage1'
+    
+echo 'Hello World1'
+    
+stage 'stage2'
+    
+echo 'Hello World2'
+
+}
